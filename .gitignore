@@ -17,3 +17,5 @@ dis_venv/
 # =========================
 aug_data/
 data/
+PlantVillage/
+PlantVillage_Masks/
