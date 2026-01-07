@@ -19,3 +19,9 @@ aug_data/
 data/
 PlantVillage/
 PlantVillage_Masks/
+
+# =========================
+# Models
+# =========================
+*.keras
+*.h5
